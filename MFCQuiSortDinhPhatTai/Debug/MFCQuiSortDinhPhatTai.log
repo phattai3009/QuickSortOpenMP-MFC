@@ -1,0 +1,17 @@
+﻿  MFCQuiSortDinhPhatTaiDlg.cpp
+C:\Users\PhatTai\Desktop\DoanOpenMP\DoanOpenMP\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTaiDlg.cpp(200,12): warning C4101: 'temp': unreferenced local variable
+C:\Users\PhatTai\Desktop\DoanOpenMP\DoanOpenMP\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTaiDlg.cpp(241,12): warning C4101: 'temp': unreferenced local variable
+C:\Users\PhatTai\Desktop\DoanOpenMP\DoanOpenMP\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTaiDlg.cpp(536,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PhatTai\Desktop\DoanOpenMP\DoanOpenMP\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTaiDlg.cpp(545,15): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\PhatTai\Desktop\DoanOpenMP\DoanOpenMP\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTaiDlg.cpp(563,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\PhatTai\Desktop\DoanOpenMP\DoanOpenMP\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTaiDlg.cpp(592,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\PhatTai\Desktop\DoanOpenMP\DoanOpenMP\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTaiDlg.cpp(610,32): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\PhatTai\Desktop\DoanOpenMP\DoanOpenMP\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTaiDlg.cpp(640,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\PhatTai\Desktop\DoanOpenMP\DoanOpenMP\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTaiDlg.cpp(656,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\PhatTai\Desktop\DoanOpenMP\DoanOpenMP\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTaiDlg.cpp(667,32): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\PhatTai\Desktop\DoanOpenMP\DoanOpenMP\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTai\MFCQuiSortDinhPhatTaiDlg.cpp(761,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MFCQuiSortDinhPhatTai.vcxproj -> C:\Users\PhatTai\Desktop\DoanOpenMP\DoanOpenMP\MFCQuiSortDinhPhatTai\Debug\MFCQuiSortDinhPhatTai.exe
