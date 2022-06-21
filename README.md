@@ -1,3 +1,12 @@
+# Thành Viên
+| MSSV          | Họ tên                   | Nội Dung Thực Hiện                              |
+|---------------|--------------------------|-------------------------------------------------|
+| 2001190243    | Đinh Phát Tài            | Design - Code chính                             |
+| 2001190697    | Lê Minh Ngọc             | Tìm hiểu nội dung của thuật toán QuickSort      |
+| 2001190906    | Nguyễn Cao Trường        | Tìm hiểu nội dung của thuật toán QuickSort      |
+| 2001190032    | Lý Mỹ Cấm                | Tìm hiểu nội dung OpenMP, code đọc file         |
+| 2001190475    | Nguyễn Ngọc Diệp         | Tìm hiểu nội dung OpenMP, code đọc file         |
+
 # Giới thiệu về đề tài QuickSortOpenMP-MFC
 Xử lý và tính toán song song - Sắp xếp sinh viên theo tên bằng thuật toán quicksort và thư viện openMP - Parallel processing and computation - Sort students by name using quicksort algorithm and openMP library - MFC C++
 
