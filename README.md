@@ -9,17 +9,6 @@ Trên thực tế, có rất nhiều bài toán với dữ liệu lớn, độ p
 Lập trình, tính toán song song là lời giải đáp cho bài toán tăng hiệu năng xử lý đồng thời rút ngắn thời gian xử lý tính toán của người dùng.
 
 ## 1.3 So sánh lập trình tính toán tuần tự và lập trình tính toán song song.
-| Lập trình tính toán tuần tự          | Lập trình tính toán song song                   |
-|---------------|--------------------------|
-| 
-	Chương trình ứng dụng chạy trên bộ xử lý đơn (single processor).
-	Các chỉ thị lệnh được bộ xử lý (CPU) thực hiện một cách lần lượt, tuần tự.
-	Mỗi chỉ thị lệnh chỉ thực thiện trên duy nhất một thành phần dữ liệu.
-	Lập trình viên chỉ cần đảm  bảo viết đúng mã lệnh theo giải thuật chương trình là chương trình có thể dịch, chạy và cho ra kết quả.
-	Thường được áp dụng đối với các bài toán có dữ liệu nhỏ, độ phức tạp bình thường và thời
-gian cho phép.                                                                                                                        | 	Chương trình ứng dụng chạy trên hai hoặc nhiều bộ xử lý.
-	Các chỉ thị lệnh được các bộ vi xử lý thực hiện một cách song song, đồng thời.
-	Mỗi chỉ thị lệnh có thể thao tác trên hai hoặc nhiều thành phần dữ liệu khác nhau.
-	Ngoài việc đảm bảo viết đúng mã lệnh theo giải thuật, lập trình viên còn phải chỉ ra trong chương trình đoạn mã nào được thực hiện song song, đồng thời.
-	Thường được áp dụng đối với các bài toán có dữ liệu lớn, độ phức tạp cao và thời gian ngắn.
- |
+
+![image](https://user-images.githubusercontent.com/83421255/174756645-cc6cfabe-1e6d-4b46-a3e0-ca20281e09fb.png)
+
